@@ -6,8 +6,8 @@ describe('index', () => {
 const error = console.error("HALP!");
 console.log(error);
 
-const log = console.log("I would be a logger."); // get it?
-console.log(log);
+console.log("I would be a logger."); // get it?
+
 
 const warn = console.warn("Danger!");
 console.log(warn);
